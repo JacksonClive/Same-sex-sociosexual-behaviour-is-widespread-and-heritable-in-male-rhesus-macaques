@@ -5,9 +5,9 @@ Download the password-protected zip file containing all data and code needed to 
 
 Contents: 
 
-(1) Three .pdf files displaying the figures which appear in the manuscript. 
+(1) Three .pdf files displaying all figures which appear in the manuscript. 
 
-(2) The supplementary data files indexed 1-29 which are referred to throughout the manuscript. These include data tables, photo panels and video files. 
+(2) The supplementary data files indexed 1-29 which are referred to in the manuscript. These include data tables, photo panels and video files. 
 
 (3) A .doc file ('Supporting Information') that provides descriptions for the 29 supplementary data files.
 
