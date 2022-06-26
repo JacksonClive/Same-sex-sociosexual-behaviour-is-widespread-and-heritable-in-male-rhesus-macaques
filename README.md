@@ -1,7 +1,7 @@
 # Same-sex-sociosexual-behaviour-is-widespread-and-heritable-in-male-rhesus-macaques
 ## Accessing data, code and results
 
-Download the password-protected zip file containing all data and code needed to reproduce results from [here](https://google.com) (password available on request).
+Download the password-protected zip file containing all data and code needed to reproduce results from [here](https://www.dropbox.com/sh/mzgt4szmctn86nv/AACvUL-oO8OUbN8zPClHgRqDa?dl=0) (password available on request).
 
 Contents: 
 
