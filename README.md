@@ -5,8 +5,7 @@ Download the password-protected zip file containing all data and code needed to 
 
 Contents: 
 
-Contains: 
-(1) Three .pdf files displaying the figures which appear in the manuscript.
+(1) Three .pdf files displaying the figures which appear in the manuscript. 
 
 (2) The supplementary figure, table and video files which are indexed numerically and thus referenced to throughout the manuscript.
 
