@@ -4,9 +4,13 @@
 Download the main zip file containing all data and code needed to reproduce results from [here](https://mega.nz/file/2iJWFaCL#SB_IEMHMzVlYFDjL-T07V2kMCWppxhMREimAbGMUOvk). Please note that this a large file (17.7GB), due to the storage of MCMC GLMM models as R objects. 
 
 Separate download links are also available for supplementary video files:
+
 [Supplementary Video 1](https://mega.nz/file/a2oEhS7K#4XNej97UtKwMEsHwbgCi4RW0aYH2J7oPOToXDGI3AvE)
+
 [Supplementary Video 2](https://mega.nz/file/K6Y2zCLB#De18VH_h7ifot41c0FrlKF1E4MtWZfX6EQxDg-CVfpA)
+
 [Supplementary Video 3](https://mega.nz/file/OnxEDRhS#pgGEG5G-I6WAbPUx7DOnNRvh1rrHhThpzMz4Bv1-wDI)
+
 [Supplementary Video 4](https://mega.nz/file/OzBHxBZC#KzG0PLU5JgK64T8RdTC9IG8N9NdtVwUgSXVC1INpJpU)
 
 Main zip file contents: 
