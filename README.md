@@ -19,7 +19,7 @@ Main zip file contents:
 
 (1) Three .pdf files displaying the figures which appear in the manuscript. 
 
-(2) The supplementary figure, table and video files which are indexed numerically and thus referenced to throughout the manuscript.
+(2) The supplementary figure, table and video files which are indexed numerically and referenced accordingly throughout the manuscript.
 
 (3) A .doc file ('SupplementaryInformation') that provides further descriptions for the 30 supplementary data files.
 
