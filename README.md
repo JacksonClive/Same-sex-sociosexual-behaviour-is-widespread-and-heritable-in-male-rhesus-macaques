@@ -1,7 +1,7 @@
 # Same-sex-sociosexual-behaviour-is-widespread-and-heritable-in-male-rhesus-macaques
 ## Accessing data, code and results
 
-Download the main zip file containing all data and code needed to reproduce results from [here](https://mega.nz/file/uzYRzRrI#DoCkNvkpKZgUiR_7s4SXgxFC86FkSNco4atPnJqBH34). Please note that this a large file (18.8GB), due to the storage of MCMC GLMM models as R objects. 
+Download the main zip file containing all data and code needed to reproduce results from [here](https://mega.nz/file/DvZw1I5Y#vbmBd8JopYOFbsPS4MnPpL-JBMkSc6A1QnqKkqR7VtQ). Please note that this a large file (18.8GB), due to the storage of MCMC GLMM models as R objects. 
 
 Separate download links are also available for supplementary video files:
 
