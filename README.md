@@ -17,11 +17,12 @@ Separate download links are also available for supplementary video files:
 
 Main zip file contents: 
 
+(Contains: 
 (1) Three .pdf files displaying the figures which appear in the manuscript. 
 
-(2) The supplementary figure, table and video files which are indexed numerically and referenced accordingly throughout the manuscript.
+(2)  Supplementary figures (although not video files - provided using direct download links) which are indexed numerically and thus referenced to throughout the manuscript. Supplementary data tables are available directly from the journal website, but can also be unzipped here with a password available [on request](jackson.clive10@imperial.ac.uk).
 
-(3) A .doc file ('SupplementaryInformation') that provides further descriptions for the 30 supplementary data files.
+(3) A .doc file ('Cliveetal_SupplementaryInformation') with further descriptions for each of the supplementary data files.
 
-(4) Data reproducibility zip, which contains all raw data, code and results. Steps to perform analysis are provided in the R script file ‘RhesusPipeline.R’. Analysis is performed in three stages: first the assembling of count data, second the running of Bayesian models, and finally the collation of posterior distributions of variance and further results. The Datareproducibility zip file contains three directories: scripts are found in ‘Code’, pipeline data in ‘Use_Data’, models are stored in RData. Analysis can be run using relative working directory paths out of the ‘Code’ directory using the respective R, Python and bash scripts. We have also provided our model results in full as stored R data files, with further code templates for parallelised Bayesian model fitting for each bivariate model and additional script templates for stitching chains together after fitting (see script notes in RhesusPipeline.R for details). 
+(4) A data reproducibility file, which contains all raw data, code and results. Raw data ('LockedUse_Data.zip') is also password protected, with access available on request. Steps to perform analysis are provided in the R script file ‘RhesusPipeline.R’. Analysis is performed in three stages: first the assembling of count data, second the running of Bayesian models, and finally the collation of posterior distributions of variance and further results. The Datareproducibility zip file contains three directories: scripts are found in ‘Code’, pipeline data in ‘Use_Data’, models are stored in RData. Analysis can be run using relative working directory paths out of the ‘Code’ directory using the respective R, Python and bash scripts. We have also provided our model results in full as stored R data files, with further code templates for parallelised Bayesian model fitting for each bivariate model and additional script templates for stitching chains together after fitting (see script notes in RhesusPipeline.R for details). 
 
