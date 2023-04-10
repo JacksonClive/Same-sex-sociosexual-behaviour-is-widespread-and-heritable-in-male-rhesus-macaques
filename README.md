@@ -20,7 +20,7 @@ Main zip file contents:
 (Contains: 
 (1) Three .pdf files displaying the figures which appear in the manuscript. 
 
-(2)  Supplementary figures (although not video files - provided using direct download links) which are indexed numerically and thus referenced to throughout the manuscript. Supplementary data tables are available directly from the journal website, but can also be unzipped here with a password available [on request](jackson.clive10@imperial.ac.uk).
+(2)  Supplementary figures (although not video files - provided using direct download links) which are indexed numerically and thus referenced to throughout the manuscript. Supplementary data tables are available directly from the journal website, but can also be unzipped here with a password available [on request](mailto:jackson.clive10@imperial.ac.uk).
 
 (3) A .doc file ('Cliveetal_SupplementaryInformation') with further descriptions for each of the supplementary data files.
 
