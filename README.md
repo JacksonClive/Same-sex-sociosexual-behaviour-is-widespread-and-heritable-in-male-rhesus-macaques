@@ -18,7 +18,7 @@ Main zip file contents:
 
 (1) Three .pdf files displaying the figures which appear in the manuscript. 
 
-(2) Supplementary figures (although not video files - provided using the direct download links (above) which are indexed numerically and thus referenced to throughout the manuscript. Supplementary data tables are available directly from the journal website, but can be unzipped here ('SupplementaryData.zip') with a password available on request. This is to comply with CPRC policy on data access. To further comply with CPRC data privacy policy, all data containing the original CPRC 3-digit identity codes have been anonymised using unique six-letter sequences per individual. 
+(2) Supplementary figures (although not video files - provided using the direct download links above) which are indexed numerically and thus referenced throughout the manuscript. Supplementary data tables are available directly from the journal website, but can be unzipped here ('SupplementaryData.zip') with a password available on request. This is to comply with CPRC policy on data access. To further comply with CPRC data privacy policy, all data containing the original CPRC 3-digit identity codes have been anonymised using unique six-letter sequences per individual. 
 
 (3) A .doc file ('Cliveetal_SupplementaryInformation') with further descriptions for each of the supplementary data files.
 
