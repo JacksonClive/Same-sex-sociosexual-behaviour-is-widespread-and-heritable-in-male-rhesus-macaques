@@ -1,7 +1,7 @@
 # Same-sex-sociosexual-behaviour-is-widespread-and-heritable-in-male-rhesus-macaques
 ## Accessing data, code and results
 
-Download the main zip file ('RhesusSSB.zip') containing all data and code needed to reproduce results from [here](https://mega.nz/file/a6IBVQKa#tKsOqJ4YJ6Y-EVAkdJLuy0pGJ47TJrCDfACdIpHygpo). Please note that this a large file (18.8GB), due to the storage of MCMC GLMM models as R objects. 
+Download the main zip file ('RhesusSSB.zip') containing all data and code needed to reproduce results from [here](https://mega.nz/file/SnYgxYpR#ltfVPSK08AYLTTKzIbX1UtjPEK9IQMF4bCmijvP9MlM). Please note that this a large file (18.8GB), due to the storage of MCMC GLMM models as R objects. Data and code are stored across three directories: scripts are found in ‘Code’, pipeline data in ‘Use_Data’, models are stored in RData. Analysis can be run using relative working directory paths out of the ‘Code’ directory using the respective R, Python and bash scripts. Steps to perform analysis are provided in the R script file ‘RhesusPipeline.R’. Analysis is performed in three stages: first the assembling of count data, second the running of Bayesian models, and finally the collation of posterior distributions of variance and further results. Additional code templates are provided for parallelised Bayesian model fitting for each bivariate model, and for stitching chains together after fitting (see script notes in RhesusPipeline.R for details). 
 
 Separate download links are also available for supplementary video files:
 
@@ -12,15 +12,4 @@ Separate download links are also available for supplementary video files:
 [Supplementary Video 3](https://mega.nz/file/OnxEDRhS#pgGEG5G-I6WAbPUx7DOnNRvh1rrHhThpzMz4Bv1-wDI)
 
 [Supplementary Video 4](https://mega.nz/file/OzBHxBZC#KzG0PLU5JgK64T8RdTC9IG8N9NdtVwUgSXVC1INpJpU)
-
-
-Main zip file contents: 
-
-(1) Three .pdf files displaying the figures which appear in the manuscript. 
-
-(2) Supplementary figures (although not video files - provided using the direct download links above) which are indexed numerically and thus referenced throughout the manuscript. Supplementary data tables are available directly from the journal website, but can be unzipped here ('SupplementaryData.zip') with a password available on request. This is to comply with CPRC policy on data access. To further comply with CPRC data privacy policy, all data containing the original CPRC 3-digit identity codes have been anonymised using unique six-letter sequences per individual. 
-
-(3) A .doc file ('Cliveetal_SupplementaryInformation') with further descriptions for each of the supplementary data files.
-
-(4) A data reproducibility file, which contains all raw data, code and results. Raw data ('Use_Data.zip') is also password protected, with access available on request. Steps to perform analysis are provided in the R script file ‘RhesusPipeline.R’. Analysis is performed in three stages: first the assembling of count data, second the running of Bayesian models, and finally the collation of posterior distributions of variance and further results. The Datareproducibility file contains three directories: scripts are found in ‘Code’, pipeline data in ‘Use_Data’, models are stored in RData. Analysis can be run using relative working directory paths out of the ‘Code’ directory using the respective R, Python and bash scripts. We have also provided our model results in full as stored R data files, with further code templates for parallelised Bayesian model fitting for each bivariate model and additional script templates for stitching chains together after fitting (see script notes in RhesusPipeline.R for details). 
 
